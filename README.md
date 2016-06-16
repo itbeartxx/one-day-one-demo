@@ -4,3 +4,5 @@ Write Code Every Day
 
 向John Resig致敬  
 http://ejohn.org/blog/write-code-every-day/
+
+D1_给傻逼织毛衣  http://runjs.cn/gist/lnpku3r5/all'
